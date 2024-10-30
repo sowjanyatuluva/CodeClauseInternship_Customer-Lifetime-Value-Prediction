@@ -1,1 +1,4 @@
 # CodeClauseInternship_Customer-Lifetime-Value-Prediction
+
+## project overview:
+This project aims to predict the lifetime value of customers based on their historical interactions using a classification approach. We categorized CLV into three classes: Low, Medium, and High, based on specific thresholds. Using a Random Forest Classifier, we trained the model on key features such as Total Transactions, Churn Probability, and Average Transaction Value. The model achieved an accuracy of 83% and demonstrated strong performance in predicting "High" CLV values. Key outputs include feature importance analysis and a confusion matrix to evaluate model performance across CLV categories. Technologies used: Python, Pandas, Seaborn, and Scikit-learn. This project provides insights into customer value segmentation and can help businesses strategize customer retention and marketing efforts.
